@@ -22,8 +22,8 @@
 
 ## BotFather Command
 ```
-start - get start the bot
-rename - replay with file to rename
+start - check if I'm alive
+rename - reply to the file
 del - to delete your thumbnail 
 view - view current thumbnail 
 ```
